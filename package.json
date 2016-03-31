@@ -1,0 +1,22 @@
+{
+  "name": "angular-meteor-auth",
+  "version": "1.0.0",
+  "description": "For full description go to the [Angular Meteor website](http://www.angular-meteor.com/)",
+  "main": "angular-meteor-auth.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxab/angular-meteor-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxab/angular-meteor-auth/issues"
+  },
+  "homepage": "https://github.com/mxab/angular-meteor-auth#readme"
+}
