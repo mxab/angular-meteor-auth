@@ -14,7 +14,7 @@
     "url": "git+https://github.com/mxab/angular-meteor-auth.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mxab/angular-meteor-auth/issues"
   },
